@@ -1,5 +1,5 @@
 import tkinter as tk
-from tkinter import filedialog, messagebox, ttk
+from tkinter import font, filedialog, messagebox, ttk
 from PIL import Image, ImageTk, ImageOps
 from ttkthemes import ThemedTk
 import threading
@@ -227,14 +227,6 @@ def convert_raw_to_tiff_imagemagick(input_path, output_path):
         print(f"Failed to convert {input_path} with ImageMagick: {e}")
         return False
 
-import os
-import threading
-import tkinter as tk
-from tkinter import ttk, filedialog, messagebox, font
-from ttkthemes import ThemedTk
-from PIL import Image, ImageTk
-import numpy as np
-import cv2
 
 RAW_EXTENSIONS = ['.cr2', '.nef', '.arw', '.dng', '.rw2', '.orf', '.raf']
 
