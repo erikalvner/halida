@@ -19,28 +19,28 @@
 
 Installing Halida is as simple as pasting the following into your terminal of choice:
 
-`` curl -fssl [placeholder] https://github.com/erikalvner/halida/releases/download/v0.1/install.sh ``
+``` curl -fssl [placeholder] https://github.com/erikalvner/halida/releases/download/v0.1/install.sh ```
 
 Would you rather not run a random script off the internet, you can just as easily follow the steps below:
 
 1. Download the latest release of the AppImage [here](www.app.image). 
-2. Go to its path and run `` sudo chmod +x Halida.AppImage ``. 
-3. You can now run the AppImage by locating it in the terminal and simply writing `` ./Halida.AppImage ``.
+2. Go to its path and run ``` sudo chmod +x Halida.AppImage ``` 
+3. You can now run the AppImage by locating it in the terminal and simply writing ``` ./Halida.AppImage ```
 
 Make a .desktop entry **Optional**
 
-4. Run `` nano ~/.local/bin/halida.desktop ``
+4. Run ``` nano ~/.local/bin/halida.desktop ```
 5. Paste the following:  
-`` [Desktop Entry]  
+``` [Desktop Entry]  
 Name=Halida  
 Comment=Halida Negative Inverter  
 Exec=Halida.AppImage  
 Terminal=false  
 Type=Application  
 Icon=halida  
-StartupNotify=true  
+StartupNotify=true
 Categories=Graphical;Photography;  
-Keywords=photography; ``
+Keywords=photography; ``` 
 
 
 ## Sample photos
