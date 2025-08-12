@@ -1,10 +1,5 @@
 # HALIDA - RAW negative inversion tool for Linux
 
-[Watch video](img/vid/develop.webm)
-
-<video controls width="640">
-  <source src="img/vid/develop.webm" type="video/webm">
-</video>
 
 
 ![banner](img/banner.png)
