@@ -6,12 +6,12 @@
 
 [Sample photos](#sample-photos)  
 [How to use](#how-to-use-halida)  
-    [Add folders](#add-entire-folders)  
-    [Crop](#crop)  
-    [Develop](#develop)  
-    [List/grid view](#show-files-in-list-or-grid-view)  
-    [RAW-file support](#supports-raw-files)  
-    [Rotate, crop, develop](#rotate-crop-and-develop)
+ --- [Add folders](#add-entire-folders)  
+ --- [Crop](#crop)  
+ --- [Develop](#develop)  
+ --- [List/grid view](#show-files-in-list-or-grid-view)  
+ --- [RAW-file support](#supports-raw-files)  
+ --- [Rotate, crop, develop](#rotate-crop-and-develop)
 
 ## Sample photos
 
