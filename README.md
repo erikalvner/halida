@@ -4,6 +4,7 @@
 
 ## Table of content
 
+* [Introduction](#introduction)
 * [Installation](#installation)  
  --- [Install script](#install-script)  
  --- [Manual install](#manual-install)  
@@ -17,6 +18,11 @@
  --- [RAW-file support](#supports-raw-files)  
  --- [Rotate, crop, develop](#rotate-crop-and-develop)  
  
+## Introduction
+
+It's important for me to point out that this whole project is entirely vibe coded using the free version of ChatGPT. I've barely written a single line of the code myself. It's clunky, the code is bulky and it's definitely slow. 
+
+To cut to the chase, I'm not a programmer. I just ended up finding Sygnynts script for inverting negatives last week and figured a GUI and the ability to process something other than 16-bit TIFF files would make my life a lot easier. You can find his project [here](https://github.com/Signynt/signynts-darkroom-script). It's amazing.
 
 ## Installation
 
