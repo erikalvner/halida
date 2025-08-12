@@ -4,13 +4,13 @@
 
 ## Table of content
 
-[**Introduction**](#introduction)
-[**Installation**](#installation)  
+*[**Introduction**](#introduction)  
+*[**Installation**](#installation)  
  --- [Install script](#install-script)  
  --- [Manual install](#manual-install)  
  --- [Uninstall](#uninstall)  
-[**Sample photos**](#sample-photos)  
-[**How to use**](#how-to-use-halida)  
+*[**Sample photos**](#sample-photos)  
+*[**How to use**](#how-to-use-halida)  
  --- [Add folders](#add-entire-folders)  
  --- [Crop](#crop)  
  --- [Develop](#develop)  
