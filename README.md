@@ -4,7 +4,10 @@
 
 ## Table of content
 
-* [Installation](#installation)
+* [Installation](#installation)  
+ --- [Install script](#install-script)  
+ --- [Manual install](#manual-install)  
+ --- [Uninstall](#uninstall)  
 * [Sample photos](#sample-photos)  
 * [How to use](#how-to-use-halida)  
  --- [Add folders](#add-entire-folders)  
@@ -17,11 +20,15 @@
 
 ## Installation
 
+### Install script
+
 Installing Halida is as simple as pasting the following into your terminal of choice:
 
 ```
 curl -fssl [placeholder] https://github.com/erikalvner/halida/releases/download/v0.1/install.sh
 ```
+
+### Manual install
 
 Would you rather not run a random script off the internet, you can just as easily follow the steps below:
 
@@ -47,6 +54,14 @@ Keywords=photography;
 ```  
 6. Press ``CTRL + W`` to exit and save.
 7. Run ```mv ~/path/to/appimage ~/.local/bin/halida/```
+
+### Uninstall
+
+This method for uninstalling Halida will only work if you installed it using the script or followed the manual installation instructions above. Just run
+
+```
+rm -rf ~/.local/bin/halida
+```
 
 
 ## Sample photos
