@@ -4,13 +4,13 @@
 
 ## Sample photos
 
-![Gustav](sample-photos/gustav-scan.png)
+![Gustav](sample-photos/gustav-scan.jpg)
 
-![Gustav](sample-photos/gustav-converted.png)
+![Gustav](sample-photos/gustav-converted.jpg)
 
-![Jacob](sample-photos/jacob-scan.png)
+![Jacob](sample-photos/jacob-scan.jpg)
 
-![Jacob](sample-photos/jacob-converted.png)
+![Jacob](sample-photos/jacob-converted.jpg)
 
 
 ## How to use Halida
