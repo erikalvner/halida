@@ -30,17 +30,19 @@ Would you rather not run a random script off the internet, you can just as easil
 Make a .desktop entry **Optional**
 
 4. Run ``` mkdir ~/.local/bin/halida ``` ```nano ~/.local/bin/halida/halida.desktop```  
-5. Paste the following:  
-```[Desktop Entry]```  
-```Name=Halida```  
-```Comment=Halida Negative Inverter```  
-```Exec=Halida.AppImage```   
-```Terminal=false```   
-```Type=Application```  
-```Icon=halida```  
-```StartupNotify=true```  
-```Categories=Graphical;Photography;```  
-```Keywords=photography;```  
+5. Paste the following: 
+ 
+```[Desktop Entry]  
+Name=Halida  
+Comment=Halida Negative Inverter  
+Exec=Halida.AppImage   
+Terminal=false   
+Type=Application  
+Icon=halida  
+StartupNotify=true  
+Categories=Graphical;Photography;  
+Keywords=photography;
+```  
 6. Press ``CTRL + W`` to exit and save.
 7. Run ```mv ~/path/to/appimage ~/.local/bin/halida/```
 
