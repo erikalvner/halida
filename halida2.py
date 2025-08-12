@@ -1,5 +1,5 @@
 import tkinter as tk
-from tkinter import font, filedialog, messagebox, ttk
+from tkinter import font, filedialog, messagebox, ttk, PhotoImage
 from PIL import Image, ImageTk, ImageOps
 from ttkthemes import ThemedTk
 import threading
@@ -15,6 +15,11 @@ import tifffile
 import tempfile
 import shutil
 import math
+import sys
+
+appdir = os.environ.get('APPDIR', os.path.dirname(__file__))
+sys.path.insert(0, os.path.join(appdir, 'usr', 'lib', 'python3.13', 'site-packages'))
+
 
 RAW_EXTENSIONS = {'.cr2', '.nef', '.arw', '.dng', '.rw2', '.orf', '.raf'}
 
