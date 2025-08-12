@@ -7,12 +7,8 @@
 ## Table of content
 
 * [**Introduction**](#introduction)  
-* [**Installation**](#installation)  
- --- [Install script](#install-script)  
- --- [Manual install](#manual-install)  
- --- [Uninstall](#uninstall)  
 * [**Sample photos**](#sample-photos)  
-* [**How to use**](#how-to-use-halida)  
+* [**Features and how to use Halida**](#how-to-use-halida)  
  --- [Add folders](#add-entire-folders)  
  --- [Crop](#crop)  
  --- [Develop](#develop)  
@@ -26,50 +22,8 @@ It's important for me to point out that this whole project is entirely vibe code
 
 To cut to the chase, I'm not a programmer. I just ended up finding Sygnynts script for inverting negatives last week and figured a GUI and the ability to process something other than 16-bit TIFF files would make my life a lot easier. You can find his project [here](https://github.com/Signynt/signynts-darkroom-script). It's amazing.
 
-## Installation
+I'm not a programmer and the code is shit. I just wanted a GUI and the ability to import my RAW files straight away from my camera. All credits go to [Signynt](https://github.com/Signynt/signynts-darkroom-script).
 
-### Install script
-
-Installing Halida is as simple as pasting the following into your terminal of choice:
-
-```
-curl -fssl [placeholder] https://github.com/erikalvner/halida/releases/download/v0.1/install.sh
-```
-
-### Manual install
-
-Would you rather not run a random script off the internet, you can just as easily follow the steps below:
-
-1. Download the latest release of the AppImage [here](www.app.image). 
-2. Go to its path and run ``` sudo chmod +x Halida.AppImage ``` 
-3. You can now run the AppImage by locating it in the terminal and simply writing ``` ./Halida.AppImage ```
-
-Make a .desktop entry **Optional**
-
-4. Run ``` mkdir ~/.local/bin/halida ``` ```nano ~/.local/bin/halida/halida.desktop```  
-5. Paste the following: 
- 
-```[Desktop Entry]  
-Name=Halida  
-Comment=Halida Negative Inverter  
-Exec=Halida.AppImage   
-Terminal=false   
-Type=Application  
-Icon=halida  
-StartupNotify=true  
-Categories=Graphical;Photography;  
-Keywords=photography;
-```  
-6. Press ``CTRL + W`` to exit and save.
-7. Run ```mv ~/path/to/appimage ~/.local/bin/halida/```
-
-### Uninstall
-
-This method for uninstalling Halida will only work if you installed it using the script or followed the manual installation instructions above. Just run
-
-```
-rm -rf ~/.local/bin/halida
-```
 
 
 ## Sample photos
