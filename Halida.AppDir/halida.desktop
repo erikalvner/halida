@@ -1,7 +1,0 @@
-[Desktop Entry]
-Type=Application
-Name=Halida
-Exec=halida %F
-Icon=halida
-Categories=Graphics;Photography;
-StartupWMClass=Halida
