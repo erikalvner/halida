@@ -1,4 +1,4 @@
-# HALIDA
+# HALIDA - RAW negative inversion tool for Linux
 
 ![banner](img/banner.png)
 
