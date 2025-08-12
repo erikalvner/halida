@@ -4,7 +4,7 @@
 
 ## Table of content
 
-[Sample photos](#sample-photos)  
+### [Sample photos](#sample-photos)  
 [How to use](#how-to-use-halida)  
  --- [Add folders](#add-entire-folders)  
  --- [Crop](#crop)  
