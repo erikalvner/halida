@@ -19,7 +19,8 @@
 
 Installing Halida is as simple as pasting the following into your terminal of choice:
 
-``` curl -fssl [placeholder] https://github.com/erikalvner/halida/releases/download/v0.1/install.sh ```
+``` curl -fssl [placeholder] https://github.com/erikalvner/halida/releases/download/v0.1/install.sh 
+```
 
 Would you rather not run a random script off the internet, you can just as easily follow the steps below:
 
