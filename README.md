@@ -1,3 +1,5 @@
+# HALIDA
+
 ![banner](img/banner.png)
 
 ## How to use Halida
