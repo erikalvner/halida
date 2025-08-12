@@ -31,16 +31,16 @@ Make a .desktop entry **Optional**
 
 4. Run ``` nano ~/.local/bin/halida.desktop ```
 5. Paste the following:  
-``` [Desktop Entry]  
-Name=Halida  
-Comment=Halida Negative Inverter  
-Exec=Halida.AppImage  
-Terminal=false  
-Type=Application  
-Icon=halida  
-StartupNotify=true
-Categories=Graphical;Photography;  
-Keywords=photography; ``` 
+``` [Desktop Entry]```  
+```Name=Halida```  
+```Comment=Halida Negative Inverter```  
+```Exec=Halida.AppImage```   
+```Terminal=false```   
+```Type=Application```  
+```Icon=halida```  
+```StartupNotify=true```  
+```Categories=Graphical;Photography;```  
+```Keywords=photography;``` 
 
 
 ## Sample photos
