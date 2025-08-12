@@ -2,6 +2,17 @@
 
 ![banner](img/banner.png)
 
+## Sample photos
+
+![Gustav](sample-photos/gustav-scan.png)
+
+![Gustav](sample-photos/gustav-converted.png)
+
+![Jacob](sample-photos/jacob-scan.png)
+
+![Jacob](sample-photos/jacob-converted.png)
+
+
 ## How to use Halida
 
 ### Add entire folders
