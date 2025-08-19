@@ -7,7 +7,8 @@
 ## Table of content
 
 * [**Introduction**](#introduction)  
-* [**Sample photos**](#sample-photos)  
+* [**Sample photos**](#sample-photos)
+* [**Prerequisites**](#prerequisites)
 * [**Features and how to use Halida**](#how-to-use-halida)  
  --- [Add folders](#add-entire-folders)  
  --- [Crop](#crop)  
@@ -24,7 +25,9 @@ To cut to the chase, I'm not a programmer. I just ended up finding Sygnynts scri
 
 I'm not a programmer and the code is shit. I just wanted a GUI and the ability to import my RAW files straight away from my camera. All credits go to [Signynt](https://github.com/Signynt/signynts-darkroom-script).
 
+## Prerequisites
 
+Running this script requires ImageMagick to be installed. It's not required for the actual script to run, it's only used for importing RAW files and converting them into TIF-files.
 
 ## Sample photos
 
