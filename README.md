@@ -7,8 +7,8 @@
 ## Table of content
 
 * [**Introduction**](#introduction)  
-* [**Sample photos**](#sample-photos)
 * [**Prerequisites**](#prerequisites)
+* [**Sample photos**](#sample-photos)
 * [**Features and how to use Halida**](#how-to-use-halida)  
  --- [Add folders](#add-entire-folders)  
  --- [Crop](#crop)  
