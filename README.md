@@ -2,7 +2,7 @@
 
 
 
-![banner](img/banner.gif)
+
 
 ## Table of content
 
