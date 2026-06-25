@@ -21,7 +21,7 @@
 
 It's important for me to point out that this whole project is entirely vibe coded using the free version of ChatGPT. I've barely written a single line of the code myself. It's clunky, the code is bulky and it's definitely slow. 
 
-To cut to the chase, I'm not a programmer. I just ended up finding Sygnynts script for inverting negatives last week and figured a GUI and the ability to process something other than 16-bit TIFF files would make my life a lot easier. You can find his project [here](https://github.com/Signynt/signynts-darkroom-script). It's amazing.
+To cut to the chase, I'm not a programmer. I just ended up finding Signynts script for inverting negatives last week and figured a GUI and the ability to process something other than 16-bit TIFF files would make my life a lot easier. You can find his project [here](https://github.com/Signynt/signynts-darkroom-script). It's amazing.
 
 I'm not a programmer and the code is shit. I just wanted a GUI and the ability to import my RAW files straight away from my camera. All credits go to [Signynt](https://github.com/Signynt/signynts-darkroom-script).
 
